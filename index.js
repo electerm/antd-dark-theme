@@ -1,6 +1,7 @@
 // black theme for antd
 module.exports = exports.default = {
   'component-background': '#333',
+  'background-color-base': '#313131',
   'heading-color': '#ababab',
   'text-color': '#bbb',
   'text-color-secondary': '#aaa',
