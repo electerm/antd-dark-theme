@@ -12,7 +12,7 @@ npm i -D @electerm/antd-dark-theme
 
 ```js
 // for webpack config
-const theme = require('./src/client/css/antd-theme')
+const theme = require('@electerm/antd-dark-theme')
 ...
   module: {
     rules: [
