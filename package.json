@@ -1,6 +1,6 @@
 {
   "name": "@electerm/antd-dark-theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "antd dark theme config",
   "main": "index.js",
   "scripts": {

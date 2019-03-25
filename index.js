@@ -30,5 +30,9 @@ module.exports = exports.default = {
   'shadow-color': 'rgba(255, 255, 255, 0.15)',
   'btn-shadow': '0 2px 0 rgba(0, 0, 0, 0.015)',
   'btn-primary-shadow': '0 2px 0 rgba(0, 0, 0, 0.045)',
-  'btn-text-shadow': '0 -1px 0 rgba(0, 0, 0, 0.12)'
+  'btn-text-shadow': '0 -1px 0 rgba(0, 0, 0, 0.12)',
+  'success-color': '#03300c',
+  'info-color': '#061f70',
+  'warning-color': '#706706',
+  'error-color': '#702b06'
 }
