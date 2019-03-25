@@ -31,8 +31,12 @@ module.exports = exports.default = {
   'btn-shadow': '0 2px 0 rgba(0, 0, 0, 0.015)',
   'btn-primary-shadow': '0 2px 0 rgba(0, 0, 0, 0.045)',
   'btn-text-shadow': '0 -1px 0 rgba(0, 0, 0, 0.12)',
-  'success-color': '#03300c',
-  'info-color': '#061f70',
-  'warning-color': '#706706',
-  'error-color': '#702b06'
+  'alert-success-border-color': '#03300c',
+  'alert-success-bg-color': '#03300f',
+  'alert-info-border-color': '#061f70',
+  'alert-info-bg-color': '#061f72',
+  'alert-warning-border-color': '#706705',
+  'alert-warning-bg-color': '#706705',
+  'alert-error-border-color': '#702b06',
+  'alert-error-bg-color': '#702b05'
 }
