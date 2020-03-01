@@ -1,6 +1,7 @@
 // black theme for antd
 module.exports = exports.default = {
   'component-background': '#333',
+  'background-color-base': '#313131',
   'heading-color': '#ababab',
   'text-color': '#bbb',
   'text-color-secondary': '#aaa',
@@ -29,5 +30,13 @@ module.exports = exports.default = {
   'shadow-color': 'rgba(255, 255, 255, 0.15)',
   'btn-shadow': '0 2px 0 rgba(0, 0, 0, 0.015)',
   'btn-primary-shadow': '0 2px 0 rgba(0, 0, 0, 0.045)',
-  'btn-text-shadow': '0 -1px 0 rgba(0, 0, 0, 0.12)'
+  'btn-text-shadow': '0 -1px 0 rgba(0, 0, 0, 0.12)',
+  'alert-success-border-color': '#03300c',
+  'alert-success-bg-color': '#03300f',
+  'alert-info-border-color': '#061f70',
+  'alert-info-bg-color': '#061f72',
+  'alert-warning-border-color': '#706705',
+  'alert-warning-bg-color': '#706705',
+  'alert-error-border-color': '#702b06',
+  'alert-error-bg-color': '#702b05'
 }
